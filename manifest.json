@@ -1,7 +1,7 @@
 {
   "vendor": "vtexlab",
   "name": "vini-banner",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Banner",
   "description": "A banner for you store",
   "builders": {
